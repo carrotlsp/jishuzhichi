@@ -1,13 +1,4 @@
-# app Technical Support
-
-
-
-Official mailbox：476078307@qq.com
-Contact number：17689201688
-
-# app 提供技术支持
-
-
-
-官方邮箱：476078307@qq.com
-联系号码：17689201688
+# IOS技术支持有问题的可以留言。
+邮箱地址：AIjunha122495@163.com谢谢!
+# iOS program design & system consultation
+if you have any question, please contact me with no hesitateEmail: AIjunha122495@163.comThank you!
