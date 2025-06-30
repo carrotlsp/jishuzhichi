@@ -2,6 +2,8 @@
 
 **Last Updated: December 19, 2024**
 
+Email address: AIjunha122495@163.com. Thank you!
+
 ## 1. Overview
 
 Welcome to our Love Whispers-Couple Game application (hereinafter referred to as "the App"). We highly value your privacy and are committed to protecting your personal information. This Privacy Policy details how we collect, use, store, and protect your information.
