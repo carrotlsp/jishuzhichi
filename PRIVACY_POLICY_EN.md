@@ -4,126 +4,97 @@
 
 Email address: AIjunha122495@163.com. Thank you!
 
+## Important Statement
+
+**The developer does not collect any data from this App.**
+
 ## 1. Overview
 
-Welcome to our Love Whispers-Couple Game application (hereinafter referred to as "the App"). We highly value your privacy and are committed to protecting your personal information. This Privacy Policy details how we collect, use, store, and protect your information.
+Welcome to our Love Whispers-Couple Game application (hereinafter referred to as "the App"). We highly value your privacy. This Privacy Policy explains our data handling practices.
 
 This Privacy Policy applies to all users who download and use the App. By using the App, you consent to the terms of this Privacy Policy.
 
-## 2. Information Collection
+## 2. Data Collection Statement
 
-### 2.1 Types of Information We Collect
+### 2.1 We Do Not Collect Any Data
 
-**Device Information:**
+We explicitly state: **This App does not collect, transmit, or store any user data to external servers.**
 
-- Device model and operating system version
-- App version information
-- Device language settings
-
-**Usage Data:**
-
-- Game progress and unlocked levels
-- In-app purchase records
-- Feature usage statistics
-
-**Local Storage Information:**
-
-- Game settings and preferences
-- Language selection
-- Privacy tip display status
-
-### 2.2 Information We Do NOT Collect
-
-We do **NOT** collect the following sensitive information:
+This includes but is not limited to:
 
 - Personal identity information (name, phone number, email address)
+- Device information (device model, operating system version)
 - Location information
 - Contact lists
 - Photos or media files
+- Usage data or statistics
 - Biometric data
+- Any other personal or device-related information
 
-## 3. Information Use
+### 2.2 Local Data Storage
 
-We use the collected information for:
+The App only stores the following information locally on your device:
 
-- **Service Provision:** Running game functions, saving game progress
-- **Experience Improvement:** Optimizing app performance, providing personalized settings
-- **Technical Support:** Diagnosing and fixing technical issues
-- **Content Unlocking:** Processing in-app purchases, unlocking game content
-- **Compliance:** Meeting legal and regulatory requirements
+- Game progress and settings
+- Language preferences
+- App configuration information
 
-## 4. Information Sharing
+This data is stored entirely on your device and is not transmitted to any external servers or third parties.
 
-We do **NOT** sell, rent, or otherwise disclose your personal information to third parties, except when:
+## 3. Third-Party Services
 
-- We have obtained your explicit consent
-- Required by laws and regulations
-- To protect our legitimate interests
-- Collaborating with trusted technical service providers (limited to what's necessary for service provision)
+The App may use the following system services:
 
-### 4.1 Third-Party Services
-
-The App may use the following third-party services:
-
-- **App Store:** Processing in-app purchases
+- **App Store:** Processing in-app purchases (managed by Apple)
 - **System Services:** Basic functions provided by iOS system
 
-## 5. Data Security
+Data processing by these services follows their respective privacy policies.
 
-We take the following measures to protect your information security:
+## 4. Data Security
 
-- **Local Storage:** Game data is primarily stored locally on your device
+Since we do not collect any data, there is no risk of data breaches. All game data is securely stored locally on your device.
 
-## 6. Data Retention
+## 5. Data Retention
 
-- **Game Data:** Stored on your device until you delete the app
+- **Local Game Data:** Stored on your device until you delete the app
 - **Purchase Records:** Managed by App Store, following Apple's data retention policy
-- **Usage Statistics:** May be retained anonymously for service improvement
 
-## 7. Children's Privacy
+## 6. Children's Privacy
 
-This App is designed for adults and contains adult content.
+This App is designed for adults and contains adult content. Since we do not collect any data, children's privacy is not an issue.
 
-## 8. User Rights
+## 7. User Rights
 
-You have the following rights:
+### 7.1 Data Control
 
-### 8.1 Access and Control
+Since we do not collect any data, you have complete control over all locally stored information.
 
-- View and modify in-app settings
-- Choose language and theme preferences
-- Control privacy tip display
+### 7.2 Data Deletion
 
-### 8.2 Data Deletion
+Deleting the app will remove all locally stored data.
 
-- Deleting the app will remove all locally stored data
-- You can reset game progress at any time
-- Contact us to delete server-side data (if any)
+### 7.3 Purchase Management
 
-### 8.3 Purchase Management
+Manage subscriptions and purchases through App Store, use "Restore Purchases" function to restore previous purchases.
 
-- Manage subscriptions and purchases through App Store
-- Use "Restore Purchases" function to restore previous purchases
+## 8. International Data Transfer
 
-## 9. International Data Transfer
+Since we do not collect or transmit any data, international data transfer is not applicable.
 
-If you are located in the EU, UK, or other regions with special data transfer requirements, please note that we may transfer data to other countries/regions for processing. We will ensure such transfers comply with applicable data protection laws.
+## 9. Cookies and Similar Technologies
 
-## 10. Cookies and Similar Technologies
+This App does not use web cookies or any tracking technologies. All data is stored only locally on your device.
 
-This App does not use web cookies but uses local storage technologies to save your settings and game progress. This data is stored only on your device.
-
-## 11. Privacy Policy Updates
+## 10. Privacy Policy Updates
 
 We may update this Privacy Policy from time to time. When we make significant changes, we will:
 
 - Notify you within the app
 - Update the "Last Updated" date of this document
-- Seek your consent when reasonably necessary
 
 Continued use of the App indicates your acceptance of the updated Privacy Policy.
 
-## 12. Applicable Law
+## 11. Applicable Law
 
 This Privacy Policy is governed by the applicable laws of your jurisdiction, including but not limited to:
 
@@ -131,28 +102,26 @@ This Privacy Policy is governed by the applicable laws of your jurisdiction, inc
 - California Consumer Privacy Act (CCPA) - applicable to California users
 - Local data protection laws
 
-## 13. Contact Us
+## 12. Contact Us
 
 If you have any questions, comments, or complaints about this Privacy Policy, please contact us through:
 
-**Email:** [Your Email Address]
-**Address:** [Your Company Address]
+**Email:** AIjunha122495@163.com
+**Response Time:** We will respond to your request within 30 days of receipt.
 
-We will respond to your request within 30 days of receipt.
+## 13. Special Notes
 
-## 14. Special Notes
-
-### 14.1 Adult Content Warning
+### 13.1 Adult Content Warning
 
 This App contains adult content and is only suitable for users 18 years and older.
 
-### 14.2 Data Minimization
+### 13.2 Data Minimization
 
-We follow the principle of data minimization, collecting and processing only the minimum amount of data necessary to provide our services.
+We follow the principle of data minimization - in fact, we do not collect any data.
 
-### 14.3 Transparency
+### 13.3 Transparency
 
-We are committed to maintaining transparency in data processing. If you have any questions, please feel free to contact us at any time.
+We are committed to complete transparency: we do not collect any data.
 
 ---
 
