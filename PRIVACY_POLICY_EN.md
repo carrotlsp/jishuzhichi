@@ -2,7 +2,7 @@
 
 **Last Updated: December 19, 2024**
 
-Email address: AIjunha122495@163.com. Thank you!
+Email address: carrotlsp@163.com. Thank you!
 
 ## Important Statement
 
